@@ -27,8 +27,7 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p>
-<a align="center" href="https://www.linkedin.com/in/dilanka-yapa"><img align="center" alt="Dilanka's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+<p><a href="https://www.linkedin.com/in/dilanka-yapa"><img align="center" alt="Dilanka's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 </p>
 
 
