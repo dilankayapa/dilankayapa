@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Still in the University.**
 
-- 💼 Reach me, [email](mailto:dilankayapa10@gmail.com) :)
+- 💼 Want to Reach me, *[email](mailto:dilankayapa10@gmail.com)*
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilankayapa&count_private=true&show_icons=true&locale=en&theme=radical" alt="dilankayapa" /></p>
 
