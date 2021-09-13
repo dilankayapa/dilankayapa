@@ -25,19 +25,13 @@
 ---
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
+<p align="center">&nbsp;<a href="https://discord.gg/XTW52Kt"><img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
+<a href="https://twitter.com/abhisheknaiidu"><img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/"><img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilankayapa&theme=radical" alt="dilankayapa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilankayapa&theme=radical" alt="dilankayapa"/></p>
 
 ---
