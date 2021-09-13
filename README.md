@@ -25,7 +25,7 @@
 ---
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -37,6 +37,7 @@
 </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilankayapa&theme=radical" alt="dilankayapa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilankayapa&theme=radical" alt="dilankayapa" /></p>
 
 ---
