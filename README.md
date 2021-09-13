@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">A passionate Mobile App Developer</h3>
+<h3 align="center">A passionate Flutter Developer</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=dilankayapa&theme=juicyfresh&column=3&margin-w=15&margin-h=15" alt="dilankayapa" /></a> </p>
 
 - 🔭 I’m currently working on **Remember My Meds mobile application**
@@ -12,6 +12,8 @@
 - 🤝 I’m looking for help with **Flutter IOS App Development**
 
 - ⚡ Fun fact **Still in the University.**
+
+- 💼 Reach me, [email](mailto:dilankayapa10@gmail.com) :)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilankayapa&count_private=true&show_icons=true&locale=en&theme=radical" alt="dilankayapa" /></p>
 
