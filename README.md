@@ -3,7 +3,7 @@
 ---
 
 <h3 align="center">A passionate Flutter Developer</h3>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=dilankayapa&theme=juicyfresh&column=3&margin-w=15&margin-h=15" alt="dilankayapa" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=dilankayapa&theme=juicyfresh&column=4&margin-w=15&margin-h=15" alt="dilankayapa" /></a> </p>
 
 - 🔭 I’m currently working on **Remember My Meds mobile application**
 
