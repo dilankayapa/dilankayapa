@@ -26,6 +26,7 @@
 <p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=dilankayapa&theme=react-dark" alt="dilankayapa" /</p>
 
 ---
+![Top Langs](https://https://github-readme-stats-nkk3h1rve-dilankayapa1.vercel.app/api/top-langs/?username=dilankayapa&langs_count=8)
 
 <h3 align="left">Connect with me:</h3>
 <p><a href="https://www.linkedin.com/in/dilanka-yapa"><img align="center" alt="Dilanka's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
