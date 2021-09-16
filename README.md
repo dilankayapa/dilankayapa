@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Flutter IOS App Development**
 
-- ⚡ Fun fact **Still in the University.**
+- ⚡ Fun fact is **Still in the University.**
 
 - 💼 Want to Reach me, *[email](mailto:dilankayapa10@gmail.com)*
 
